@@ -1,0 +1,17 @@
+{
+  "name": "qTool",
+  "version": "1.0.0",
+  "description": "一个工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qiyangzhi",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.39.2"
+  },
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
